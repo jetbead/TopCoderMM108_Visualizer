@@ -2,7 +2,7 @@
 
 <img src="etc/seed6.png">
 
-This is a simple intaractive visualizer for TopCoder Marathon match 108.
+This is a simple interactive visualizer for TopCoder Marathon Match 108.
 
 https://community.topcoder.com/longcontest/?module=ViewProblemStatement&compid=81903&rd=17415
 
