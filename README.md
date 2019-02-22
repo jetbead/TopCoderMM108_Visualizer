@@ -1,6 +1,6 @@
 # TopCoder MM108 Visualizer
 
-<img src="etc/seed6.gif">
+<img src="etc/seed6.png">
 
 This is an simple intaractive visualizer for TopCoder Marathon match 108.
 
