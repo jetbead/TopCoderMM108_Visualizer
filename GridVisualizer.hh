@@ -111,7 +111,9 @@ void GridVisualizer::run() {
 
 void GridVisualizer::processInput() {
   SDL_Event event;
-  while (SDL_PollEvent(&event)) {
+  // while (SDL_PollEvent(&event)) {
+  {
+    SDL_WaitEvent(&event);
     switch (event.type) {
       case SDL_QUIT:
         mIsRunning = false;
